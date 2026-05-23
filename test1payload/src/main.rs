@@ -25,29 +25,7 @@ const PASSWORD: &str = "StrongPassword123!";
 
 // Hardcoded payload
 const PROMPT: &str =
-    "Create a 30-second Manim animation explaining a neural network visually.
-
-Start with floating dots representing neurons. Lines connect layer by layer while signals pulse through the network.
-
-Display a simple equation like:
-
-y=σ(Wx+b)
-w
-b
-
-Animate inputs entering the network, weights glowing during propagation, and outputs forming recognizable patterns like digits or shapes.
-
-Final scene zooms out to reveal the network forming the shape of a human brain.
-
-Closing text:
-“Learning Through Connections”
-
-Style:
-
-Futuristic dark theme
-Electric blue signal pulses
-Smooth node animations
-Minimalist design";
+    "explain linked lists in data structures, and make it fun and engaging";
 
 #[derive(Clone, Debug)]
 struct TestUser {

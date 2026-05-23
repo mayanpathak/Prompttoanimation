@@ -2,6 +2,8 @@ use anyhow::{anyhow, Result};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use std::time::Duration;
+use std::env;
+
 
 // ======================================================
 // Request Models
@@ -65,13 +67,16 @@ pub async fn generate_manim_code(user_prompt: &str) -> Result<String> {
     println!("\n========================================");
     println!("GEMINI GENERATION START");
     println!("========================================");
+    dotenvy::dotenv().ok();
+
+    let api_key: String = env::var("GEMINI_API_KEY")?;
 
     // ==================================================
     // HARD CODED CONFIG
     // ==================================================
 
     // REPLACE THIS WITH YOUR REAL KEY
-    let api_key = "AIzaSyBb0ZKYR9Xy_-2HYMUAKG1OBhEEpM4IkoU";
+    // let api_key = "AIzaSyAm-rUzugQG_WoILcZylFw3NIOFDLxeogg";
 
     // Recommended stable model
     let model = "gemini-2.5-flash";
