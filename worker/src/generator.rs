@@ -76,7 +76,6 @@ pub async fn generate_manim_code(user_prompt: &str) -> Result<String> {
     // ==================================================
 
     // REPLACE THIS WITH YOUR REAL KEY
-    // let api_key = "AIzaSyAm-rUzugQG_WoILcZylFw3NIOFDLxeogg";
 
     // Recommended stable model
     let model = "gemini-2.5-flash";
