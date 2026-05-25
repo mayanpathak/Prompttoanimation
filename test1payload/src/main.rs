@@ -25,7 +25,38 @@ const PASSWORD: &str = "StrongPassword123!";
 
 // Hardcoded payload
 const PROMPT: &str =
-    "explain linked lists in data structures, and make it fun and engaging";
+    "Generate a SHORT and SIMPLE Manim animation explaining De Moivre’s Theorem.
+
+STRICT RULES:
+
+* Use ONLY stable Manim Community v0.20.1 APIs
+* Do NOT use custom keyword arguments
+* Do NOT pass color= into get_x_axis_label or get_y_axis_label
+* Do NOT create custom Arrow config dictionaries
+* Keep the scene under 80 lines
+* Use only: Axes, Arrow, Arc, MathTex, Text, FadeIn, FadeOut, Transform, Create, Write
+* No advanced abstractions
+* No helper functions
+* No VGroup nesting complexity
+* No unsupported kwargs
+* Use plain Arrow(ORIGIN, point)
+* Use numpy as np
+* Scene class name must be GeneratedScene
+* Output ONLY valid Python code
+* No markdown
+* No explanations
+
+Animation flow:
+
+1. Draw complex plane
+2. Show vector z at angle θ
+3. Transform to z² at angle 2θ
+4. Transform to z³ at angle 3θ
+5. Display final formula:
+   (cosθ + isinθ)^n = cos(nθ) + isin(nθ)
+
+Keep everything visually simple and robust.
+.";
 
 #[derive(Clone, Debug)]
 struct TestUser {
