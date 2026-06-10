@@ -7,19 +7,6 @@
 Showcase------
 
 
-
-
-
-
-
-https://github.com/user-attachments/assets/babab548-fecf-4d72-8564-f80740ea2556
-
-
-
-https://github.com/user-attachments/assets/b9da3c0a-f728-42fe-b0b3-8d53ff7a4d75
-
-
-
 https://github.com/user-attachments/assets/8bd1c22b-985b-45be-83ac-c51d4a200a2a
 
 
@@ -475,6 +462,27 @@ The system executes AI-generated Python. Without sandboxing, a malicious or brok
 ---
 
 
+## What This Demonstrates
+
+This project was built specifically to demonstrate senior-level Rust backend engineering:
+
+- **Async system design** — Tokio throughout, no blocking the event loop
+- **Distributed processing** — decoupled producer/consumer across two binaries
+- **Job queue architecture** — Redis-backed queue with real concurrency control
+- **State machine persistence** — explicit status transitions in MongoDB
+- **Secure auth** — JWT in httpOnly cookies, typed middleware extractors
+- **Containerized execution** — Docker sandbox for untrusted AI code
+- **Error propagation** — `thiserror` typed errors, `AppError` → HTTP status mapping
+- **Modular architecture** — controller/service/model/schema separation, no god files
+- **AI integration** — structured prompting, response cleaning, output validation
+
+
+
+
+
+
+
+
 
 Showcase Videos ------------
 
@@ -524,19 +532,7 @@ https://github.com/user-attachments/assets/ed3272d0-f8f1-49b1-8ccd-cb7cd0357cf6
 
 
 
-## What This Demonstrates
 
-This project was built specifically to demonstrate senior-level Rust backend engineering:
-
-- **Async system design** — Tokio throughout, no blocking the event loop
-- **Distributed processing** — decoupled producer/consumer across two binaries
-- **Job queue architecture** — Redis-backed queue with real concurrency control
-- **State machine persistence** — explicit status transitions in MongoDB
-- **Secure auth** — JWT in httpOnly cookies, typed middleware extractors
-- **Containerized execution** — Docker sandbox for untrusted AI code
-- **Error propagation** — `thiserror` typed errors, `AppError` → HTTP status mapping
-- **Modular architecture** — controller/service/model/schema separation, no god files
-- **AI integration** — structured prompting, response cleaning, output validation
 
 ---
 
