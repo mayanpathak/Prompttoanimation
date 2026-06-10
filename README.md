@@ -4,6 +4,56 @@
 > Type a natural language description. Get a rendered Manim video back.
 
 ---
+Showcase------
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/babab548-fecf-4d72-8564-f80740ea2556
+
+
+
+https://github.com/user-attachments/assets/b9da3c0a-f728-42fe-b0b3-8d53ff7a4d75
+
+
+
+https://github.com/user-attachments/assets/8bd1c22b-985b-45be-83ac-c51d4a200a2a
+
+
+
+https://github.com/user-attachments/assets/74fcf429-91b3-4d89-aefb-f8c7846d974d
+
+
+
+https://github.com/user-attachments/assets/b822255c-8a48-4bd3-a1c3-51dc4c8d4a81
+
+
+
+https://github.com/user-attachments/assets/26839993-3c8e-4e07-9d5d-5e0224fa45be
+
+
+
+https://github.com/user-attachments/assets/1ad781b3-1c1a-4b32-bf07-58c50fa85fb3
+
+
+
+https://github.com/user-attachments/assets/55d2a8e6-f206-40ad-9b06-62552033fe38
+
+
+
+https://github.com/user-attachments/assets/c2a93931-51ae-4937-bbca-32efdcd5e408
+
+
+
+https://github.com/user-attachments/assets/f20256a3-8e4a-478f-806b-f36858694789
+
+
+
+
+
 
 ## What This Is
 
