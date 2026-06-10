@@ -24,37 +24,6 @@ https://github.com/user-attachments/assets/8bd1c22b-985b-45be-83ac-c51d4a200a2a
 
 
 
-https://github.com/user-attachments/assets/74fcf429-91b3-4d89-aefb-f8c7846d974d
-
-
-
-https://github.com/user-attachments/assets/b822255c-8a48-4bd3-a1c3-51dc4c8d4a81
-
-
-
-https://github.com/user-attachments/assets/26839993-3c8e-4e07-9d5d-5e0224fa45be
-
-
-
-https://github.com/user-attachments/assets/1ad781b3-1c1a-4b32-bf07-58c50fa85fb3
-
-
-
-https://github.com/user-attachments/assets/55d2a8e6-f206-40ad-9b06-62552033fe38
-
-
-
-https://github.com/user-attachments/assets/c2a93931-51ae-4937-bbca-32efdcd5e408
-
-
-
-https://github.com/user-attachments/assets/f20256a3-8e4a-478f-806b-f36858694789
-
-
-
-
-
-
 ## What This Is
 
 `promptoanime` is a distributed backend system that converts plain English prompts into rendered mathematical animation videos using [Manim (ManimGL)](https://github.com/3b1b/manim) — the same engine behind 3Blue1Brown's videos.
@@ -504,6 +473,56 @@ The system executes AI-generated Python. Without sandboxing, a malicious or brok
 - [ ] Frontend dashboard (Next.js)
 
 ---
+
+
+
+Showcase Videos ------------
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/a85b7cb8-855e-46d1-b420-859206df094b
+
+
+
+https://github.com/user-attachments/assets/94fe239b-b8bc-41c4-82b9-b6534be5a32c
+
+
+
+https://github.com/user-attachments/assets/7f2b6cc2-fa62-4c3e-ae23-69d7b0d24f4d
+
+
+
+https://github.com/user-attachments/assets/4ccce4a4-2e0f-4fd7-9029-fdb6829fbc39
+
+
+
+https://github.com/user-attachments/assets/646612d2-8c5b-4975-80e5-6a7bd9d3f604
+
+
+
+https://github.com/user-attachments/assets/e66414c2-b032-49c1-8c55-97e7f59a86f8
+
+
+
+https://github.com/user-attachments/assets/6ff25910-1935-4a80-a463-a6d44138440e
+
+
+
+https://github.com/user-attachments/assets/ed3272d0-f8f1-49b1-8ccd-cb7cd0357cf6
+
+
+
+
+
+
+
+
+
 
 ## What This Demonstrates
 
